@@ -1,0 +1,19 @@
+class Solution:
+    def containsDuplicate(self, nums: List[int]) -> bool:
+        # sorted_nums=sorted(nums)
+        # for i in range(len(sorted_nums)-1):
+        #     if sorted_nums[i] == sorted_nums[i+1]:
+        #         return True
+           
+        # return False
+        seen = set()
+        for i in range(len(nums)):
+            if nums[i] in seen:
+                return True
+            else:
+                seen.add(nums[i])
+        return False
+
+obj = Solution()
+print(obj.containsDuplicate([1,2,3,1]))
+        
