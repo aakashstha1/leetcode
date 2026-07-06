@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aakashstha1/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aakashstha1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/aakashstha1/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakashstha1/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aakashstha1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aakashstha1/leetcode/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aakashstha1/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
