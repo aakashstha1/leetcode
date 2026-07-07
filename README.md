@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aakashstha1/leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/aakashstha1/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/aakashstha1/leetcode/tree/master/0283-move-zeroes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakashstha1/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -60,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aakashstha1/leetcode/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/aakashstha1/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
