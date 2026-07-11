@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/aakashstha1/leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/aakashstha1/leetcode/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aakashstha1/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aakashstha1/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
