@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aakashstha1/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aakashstha1/leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/aakashstha1/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakashstha1/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/aakashstha1/leetcode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/aakashstha1/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
