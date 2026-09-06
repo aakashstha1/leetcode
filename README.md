@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aakashstha1/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aakashstha1/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/aakashstha1/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/aakashstha1/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashstha1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aakashstha1/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aakashstha1/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashstha1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashstha1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aakashstha1/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
