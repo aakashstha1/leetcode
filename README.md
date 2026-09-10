@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aakashstha1/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakashstha1/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/aakashstha1/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aakashstha1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aakashstha1/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aakashstha1/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/aakashstha1/leetcode/tree/master/0704-binary-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aakashstha1/leetcode/tree/master/0238-product-of-array-except-self) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aakashstha1/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
